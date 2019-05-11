@@ -1,7 +1,7 @@
 local module = {}
 
-module.SSID = {}
-module.SSID["Rutgers"] = "11235Tcial813"
+module.SSID = "Rutgers"
+module.PWD = "11235Tcial813"
 
 module.PORT = 80
 
